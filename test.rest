@@ -1,0 +1,12 @@
+GET   http://localhost:3000/restricted
+Content-Type: application/json
+Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6IkNoaW1zb20iLCJpYXQiOjE2NTQ3MDE0NTl9.FpheLUiGSXjMVVxoVqcV9q2LkCWDmJXRXL9CWPfUUhg
+
+{
+    "username":"Chimsom",
+    "email": "chimsomzee@gmail.com",
+    "password": "Sommie"
+}
+
+
+//eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6IkNoaW1zb20iLCJpYXQiOjE2NTQ3MDE0NTl9.FpheLUiGSXjMVVxoVqcV9q2LkCWDmJXRXL9CWPfUUhg
